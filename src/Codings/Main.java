@@ -10,7 +10,7 @@ public class Main {
         String name = "Hello World";
         final String name2 = "Smile";
         System.out.println(name + name2);
-        
+
 
     }
 }
