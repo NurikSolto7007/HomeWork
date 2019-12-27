@@ -7,8 +7,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String name = "Hello World";
-        final String name2 = "Smile";
+        final String name = "Hello ";
+         String name2 = "World Smile";
         System.out.println(name + name2);
 
 
